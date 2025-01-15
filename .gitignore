@@ -16,6 +16,8 @@ MANIFEST
 # DB
 vectorstore/
 
+app/.env
+
 # Notebooks
 *.ipynb
 
